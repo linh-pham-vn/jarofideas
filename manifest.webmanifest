@@ -1,0 +1,14 @@
+{
+  "name": "Jar of Ideas",
+  "short_name": "Jar",
+  "description": "A jar of project ideas. Shake it and it pulls one out.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F1F1EE",
+  "theme_color": "#F1F1EE",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
